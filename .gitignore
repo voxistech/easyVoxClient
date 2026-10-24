@@ -1,0 +1,9 @@
+# Distribution repository: only explicitly approved public documentation belongs here.
+*
+!/.gitignore
+!/README.md
+!/docs/
+!/docs/installation.md
+!/docs/configuration.md
+!/releases/
+!/releases/5.0.0021-beta.md
